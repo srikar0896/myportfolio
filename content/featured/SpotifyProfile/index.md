@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '3'
 title: 'State Machine Builder'
 cover: './viz.png'
 github: 'https://github.com/srikar0896/state-machine-builder-utility'
