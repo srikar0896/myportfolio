@@ -4,8 +4,8 @@ module.exports = {
   siteMetadata: {
     title: 'Srikar Chowdavarapu',
     description:
-      "Srikar is Solution-driven software engineering and front-end development professional with a master's degree in Computer Science and experience in designing, developing, and testing web-based software applications. Demonstrated strong proficiency in Javascript and building scalable enterprise applications for multiple projects with complete ownership of product design, development, and implementation, delivering end-to-end features.",
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+      "Frontend engineer with 6+ years of experience building scalable web platforms and developer infrastructure. Strong believer that frontend development isn't just about building UIs; it's about understanding how people use software, and removing friction from their workflows. This philosophy drives technical decisions like implementing optimistic UI patterns for perceived responsiveness, improving INP by 38% because milliseconds matter to user experience, and creating design systems and developer tools that helps teams adopted because consistency helps usability. I balance technical implementation with product thinking to ship features that users actually want to use.",
+    siteUrl: 'https://srikar-chowdavarapu.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@sriker_ch',
   },

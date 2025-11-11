@@ -1,5 +1,5 @@
 ---
-date: '4'
+date: '5'
 title: 'React-see-more'
 cover: './see-more.png'
 external: 'https://github.com/srikar0896/react-see-more'

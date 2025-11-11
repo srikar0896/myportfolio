@@ -126,7 +126,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = ['JavaScript', 'TypeScript', 'React', 'Python', 'Micro-Frontends', 'Performance Optimization'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -137,13 +137,14 @@ const About = () => {
           <div>
             <p>
               Hello! My name is Srikar and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2014 when I tried to put my name in
+              interest in programming started back in 2014 when I tried to put my name in
               headlines of NEWS website — turns out hacking together a custom button taught me a lot
-              about HTML &amp; CSS!
+              about programming!
             </p>
 
             <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
+              <a href="https://aws.amazon.com/">AWS</a>,{' '}
               <a href="https://razorpay.com/">Razorpay</a>,{' '}
               <a href="https://www.bizongo.com/">Bizongo</a>,{' '}
               <a href="https://www.nexteducation.in/">Next Education</a>.
